@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm İbrahim Can</h1>
 <h3 align="center">A computer science student from Turkey who loves coding</h3>
-https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimcangok&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimcangok" /> </p>
 
 - 📫 How to reach me **ibrrahimgok00@gmail.com**
