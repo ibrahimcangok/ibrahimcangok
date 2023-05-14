@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm İbrahim Can</h1>
 <h3 align="center">A computer science student from Turkey who loves coding</h3>
 
+![1](https://github.com/ibrahimcangok/ibrahimcangok/assets/106431802/270ca654-3678-47cf-9baa-da91aadb1b29)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimcangok&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimcangok" /> </p>
 
 - 📫 How to reach me **ibrrahimgok00@gmail.com**
