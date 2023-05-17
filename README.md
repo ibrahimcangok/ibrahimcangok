@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimcangok" alt="ibrahimcangok" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 📫 How to reach me **ibrrahimgok00@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ibrahim-can-gok/](https://www.linkedin.com/in/ibrahim-can-gok/)
@@ -21,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimcangok&show_icons=true&locale=en&layout=compact" alt="ibrahimcangok" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimcangok&show_icons=true&locale=en" alt="ibrahimcangok" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimcangok&" alt="ibrahimcangok" /></p>
