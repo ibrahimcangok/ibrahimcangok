@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm İbrahim Can</h1>
-<h3 align="center">A computer science student from Turkey who loves coding</h3>
-
+<h3 align="center">A passionate software developer from Turkey</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-can-gok/) 
