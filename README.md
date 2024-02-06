@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi 👋, I'm İbrahim Can<br>A passionate software developer from Turkey<br>
+<h1 align="center">Hi 👋, I'm İbrahim Can</h1>
+<h3 align="center">A computer science student from Turkey who loves coding</h3>
 
 
 ## 🌐 Socials:
