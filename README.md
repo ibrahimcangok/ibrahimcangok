@@ -1,4 +1,5 @@
-# 💫 Hi 👋, I'm İbrahim Can<br>A passionate software developer from Turkey<br>
+# 💫 About Me:
+# Hi 👋, I'm İbrahim Can<br>A passionate software developer from Turkey<br>
 
 
 ## 🌐 Socials:
